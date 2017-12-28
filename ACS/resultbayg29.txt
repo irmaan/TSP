@@ -1,0 +1,555 @@
+
+
+Nearest Neighbor tour length:77378.0
+
+
+Iteration 0
+
+1. ant's tour. Tour length: 78013.0
+1. ant's local search tour. Tour length:64432.0
+1. ant's tour is the best tour. Tour length: 64432.0
+
+2. ant's tour. Tour length: 68645.0
+2. ant's local search tour. Tour length:66121.0
+
+3. ant's tour. Tour length: 79796.0
+3. ant's local search tour. Tour length:64523.0
+
+4. ant's tour. Tour length: 66224.0
+4. ant's local search tour. Tour length:64350.0
+4. ant's tour is the best tour. Tour length: 64350.0
+
+5. ant's tour. Tour length: 64463.0
+5. ant's local search tour. Tour length:63509.0
+5. ant's tour is the best tour. Tour length: 63509.0
+
+6. ant's tour. Tour length: 69971.0
+6. ant's local search tour. Tour length:63509.0
+
+7. ant's tour. Tour length: 80180.0
+7. ant's local search tour. Tour length:60013.0
+7. ant's tour is the best tour. Tour length: 60013.0
+
+8. ant's tour. Tour length: 68337.0
+8. ant's local search tour. Tour length:60013.0
+
+9. ant's tour. Tour length: 77205.0
+9. ant's local search tour. Tour length:60013.0
+
+10. ant's tour. Tour length: 73633.0
+10. ant's local search tour. Tour length:65371.0
+
+11. ant's tour. Tour length: 69040.0
+11. ant's local search tour. Tour length:64350.0
+
+12. ant's tour. Tour length: 73469.0
+12. ant's local search tour. Tour length:64642.0
+
+13. ant's tour. Tour length: 86354.0
+13. ant's local search tour. Tour length:60013.0
+
+14. ant's tour. Tour length: 66224.0
+14. ant's local search tour. Tour length:64350.0
+
+15. ant's tour. Tour length: 64600.0
+15. ant's local search tour. Tour length:63509.0
+
+16. ant's tour. Tour length: 75798.0
+16. ant's local search tour. Tour length:70238.0
+
+17. ant's tour. Tour length: 71030.0
+17. ant's local search tour. Tour length:66890.0
+
+18. ant's tour. Tour length: 68337.0
+18. ant's local search tour. Tour length:60013.0
+
+19. ant's tour. Tour length: 80878.0
+19. ant's local search tour. Tour length:60013.0
+
+20. ant's tour. Tour length: 69225.0
+20. ant's local search tour. Tour length:60013.0
+
+21. ant's tour. Tour length: 77618.0
+21. ant's local search tour. Tour length:60013.0
+
+22. ant's tour. Tour length: 68645.0
+22. ant's local search tour. Tour length:66121.0
+
+23. ant's tour. Tour length: 72036.0
+23. ant's local search tour. Tour length:60013.0
+
+24. ant's tour. Tour length: 66224.0
+24. ant's local search tour. Tour length:64350.0
+
+25. ant's tour. Tour length: 71658.0
+25. ant's local search tour. Tour length:69570.0
+
+26. ant's tour. Tour length: 74602.0
+26. ant's local search tour. Tour length:63509.0
+
+27. ant's tour. Tour length: 68473.0
+27. ant's local search tour. Tour length:63961.0
+
+28. ant's tour. Tour length: 74996.0
+28. ant's local search tour. Tour length:60013.0
+
+29. ant's tour. Tour length: 71965.0
+29. ant's local search tour. Tour length:60013.0
+
+Best tour until now. Tour length: 60013.0
+
+
+Iteration 1
+
+1. ant's tour. Tour length: 112777.0
+1. ant's local search tour. Tour length:63509.0
+1. ant's tour is the best tour. Tour length: 63509.0
+
+2. ant's tour. Tour length: 96559.0
+2. ant's local search tour. Tour length:64642.0
+
+3. ant's tour. Tour length: 103443.0
+3. ant's local search tour. Tour length:60013.0
+3. ant's tour is the best tour. Tour length: 60013.0
+
+4. ant's tour. Tour length: 101904.0
+4. ant's local search tour. Tour length:68600.0
+
+5. ant's tour. Tour length: 89678.0
+5. ant's local search tour. Tour length:60013.0
+
+6. ant's tour. Tour length: 104884.0
+6. ant's local search tour. Tour length:67611.0
+
+7. ant's tour. Tour length: 93206.0
+7. ant's local search tour. Tour length:63538.0
+
+8. ant's tour. Tour length: 91988.0
+8. ant's local search tour. Tour length:60013.0
+
+9. ant's tour. Tour length: 116944.0
+9. ant's local search tour. Tour length:66503.0
+
+10. ant's tour. Tour length: 91680.0
+10. ant's local search tour. Tour length:60013.0
+
+11. ant's tour. Tour length: 91898.0
+11. ant's local search tour. Tour length:66585.0
+
+12. ant's tour. Tour length: 87536.0
+12. ant's local search tour. Tour length:69108.0
+
+13. ant's tour. Tour length: 90609.0
+13. ant's local search tour. Tour length:60013.0
+
+14. ant's tour. Tour length: 103105.0
+14. ant's local search tour. Tour length:68301.0
+
+15. ant's tour. Tour length: 91473.0
+15. ant's local search tour. Tour length:65634.0
+
+16. ant's tour. Tour length: 110813.0
+16. ant's local search tour. Tour length:66961.0
+
+17. ant's tour. Tour length: 93738.0
+17. ant's local search tour. Tour length:64523.0
+
+18. ant's tour. Tour length: 91988.0
+18. ant's local search tour. Tour length:60013.0
+
+19. ant's tour. Tour length: 97182.0
+19. ant's local search tour. Tour length:60013.0
+
+20. ant's tour. Tour length: 89050.0
+20. ant's local search tour. Tour length:64523.0
+
+21. ant's tour. Tour length: 89557.0
+21. ant's local search tour. Tour length:64350.0
+
+22. ant's tour. Tour length: 87536.0
+22. ant's local search tour. Tour length:69108.0
+
+23. ant's tour. Tour length: 97963.0
+23. ant's local search tour. Tour length:64432.0
+
+24. ant's tour. Tour length: 100181.0
+24. ant's local search tour. Tour length:60013.0
+
+25. ant's tour. Tour length: 84342.0
+25. ant's local search tour. Tour length:64523.0
+
+26. ant's tour. Tour length: 86771.0
+26. ant's local search tour. Tour length:60013.0
+
+27. ant's tour. Tour length: 88507.0
+27. ant's local search tour. Tour length:66008.0
+
+28. ant's tour. Tour length: 87292.0
+28. ant's local search tour. Tour length:64934.0
+
+29. ant's tour. Tour length: 100652.0
+29. ant's local search tour. Tour length:64970.0
+
+
+Iteration 2
+
+1. ant's tour. Tour length: 85410.0
+1. ant's local search tour. Tour length:60013.0
+1. ant's tour is the best tour. Tour length: 60013.0
+
+2. ant's tour. Tour length: 109495.0
+2. ant's local search tour. Tour length:60013.0
+
+3. ant's tour. Tour length: 96621.0
+3. ant's local search tour. Tour length:60013.0
+
+4. ant's tour. Tour length: 82918.0
+4. ant's local search tour. Tour length:64642.0
+
+5. ant's tour. Tour length: 119061.0
+5. ant's local search tour. Tour length:65772.0
+
+6. ant's tour. Tour length: 81389.0
+6. ant's local search tour. Tour length:66437.0
+
+7. ant's tour. Tour length: 104907.0
+7. ant's local search tour. Tour length:60013.0
+
+8. ant's tour. Tour length: 114719.0
+8. ant's local search tour. Tour length:67649.0
+
+9. ant's tour. Tour length: 103082.0
+9. ant's local search tour. Tour length:66337.0
+
+10. ant's tour. Tour length: 116204.0
+10. ant's local search tour. Tour length:65187.0
+
+11. ant's tour. Tour length: 97633.0
+11. ant's local search tour. Tour length:60013.0
+
+12. ant's tour. Tour length: 90231.0
+12. ant's local search tour. Tour length:60013.0
+
+13. ant's tour. Tour length: 108411.0
+13. ant's local search tour. Tour length:68489.0
+
+14. ant's tour. Tour length: 99121.0
+14. ant's local search tour. Tour length:60013.0
+
+15. ant's tour. Tour length: 96948.0
+15. ant's local search tour. Tour length:60013.0
+
+16. ant's tour. Tour length: 97598.0
+16. ant's local search tour. Tour length:66941.0
+
+17. ant's tour. Tour length: 118153.0
+17. ant's local search tour. Tour length:60013.0
+
+18. ant's tour. Tour length: 92862.0
+18. ant's local search tour. Tour length:68412.0
+
+19. ant's tour. Tour length: 100846.0
+19. ant's local search tour. Tour length:60013.0
+
+20. ant's tour. Tour length: 97834.0
+20. ant's local search tour. Tour length:68412.0
+
+21. ant's tour. Tour length: 100588.0
+21. ant's local search tour. Tour length:60013.0
+
+22. ant's tour. Tour length: 96973.0
+22. ant's local search tour. Tour length:60013.0
+
+23. ant's tour. Tour length: 86088.0
+23. ant's local search tour. Tour length:60013.0
+
+24. ant's tour. Tour length: 99121.0
+24. ant's local search tour. Tour length:60013.0
+
+25. ant's tour. Tour length: 96948.0
+25. ant's local search tour. Tour length:60013.0
+
+26. ant's tour. Tour length: 97181.0
+26. ant's local search tour. Tour length:67012.0
+
+27. ant's tour. Tour length: 82496.0
+27. ant's local search tour. Tour length:60013.0
+
+28. ant's tour. Tour length: 98436.0
+28. ant's local search tour. Tour length:66961.0
+
+29. ant's tour. Tour length: 86932.0
+29. ant's local search tour. Tour length:60013.0
+
+
+Iteration 3
+
+1. ant's tour. Tour length: 93418.0
+1. ant's local search tour. Tour length:64642.0
+1. ant's tour is the best tour. Tour length: 64642.0
+
+2. ant's tour. Tour length: 113499.0
+2. ant's local search tour. Tour length:60013.0
+2. ant's tour is the best tour. Tour length: 60013.0
+
+3. ant's tour. Tour length: 92717.0
+3. ant's local search tour. Tour length:67377.0
+
+4. ant's tour. Tour length: 123047.0
+4. ant's local search tour. Tour length:67140.0
+
+5. ant's tour. Tour length: 112488.0
+5. ant's local search tour. Tour length:67338.0
+
+6. ant's tour. Tour length: 117546.0
+6. ant's local search tour. Tour length:60013.0
+
+7. ant's tour. Tour length: 98812.0
+7. ant's local search tour. Tour length:71653.0
+
+8. ant's tour. Tour length: 98163.0
+8. ant's local search tour. Tour length:65913.0
+
+9. ant's tour. Tour length: 101165.0
+9. ant's local search tour. Tour length:60013.0
+
+10. ant's tour. Tour length: 101198.0
+10. ant's local search tour. Tour length:66196.0
+
+11. ant's tour. Tour length: 94224.0
+11. ant's local search tour. Tour length:65315.0
+
+12. ant's tour. Tour length: 112394.0
+12. ant's local search tour. Tour length:65187.0
+
+13. ant's tour. Tour length: 84941.0
+13. ant's local search tour. Tour length:64642.0
+
+14. ant's tour. Tour length: 100765.0
+14. ant's local search tour. Tour length:60013.0
+
+15. ant's tour. Tour length: 100860.0
+15. ant's local search tour. Tour length:68728.0
+
+16. ant's tour. Tour length: 117546.0
+16. ant's local search tour. Tour length:60013.0
+
+17. ant's tour. Tour length: 106527.0
+17. ant's local search tour. Tour length:67173.0
+
+18. ant's tour. Tour length: 93164.0
+18. ant's local search tour. Tour length:68489.0
+
+19. ant's tour. Tour length: 106397.0
+19. ant's local search tour. Tour length:67038.0
+
+20. ant's tour. Tour length: 115065.0
+20. ant's local search tour. Tour length:61992.0
+
+21. ant's tour. Tour length: 95414.0
+21. ant's local search tour. Tour length:60013.0
+
+22. ant's tour. Tour length: 115277.0
+22. ant's local search tour. Tour length:60013.0
+
+23. ant's tour. Tour length: 82664.0
+23. ant's local search tour. Tour length:64642.0
+
+24. ant's tour. Tour length: 91513.0
+24. ant's local search tour. Tour length:63538.0
+
+25. ant's tour. Tour length: 89713.0
+25. ant's local search tour. Tour length:66789.0
+
+26. ant's tour. Tour length: 95786.0
+26. ant's local search tour. Tour length:63509.0
+
+27. ant's tour. Tour length: 102251.0
+27. ant's local search tour. Tour length:60013.0
+
+28. ant's tour. Tour length: 93164.0
+28. ant's local search tour. Tour length:68489.0
+
+29. ant's tour. Tour length: 84536.0
+29. ant's local search tour. Tour length:66337.0
+
+
+Iteration 4
+
+1. ant's tour. Tour length: 105315.0
+1. ant's local search tour. Tour length:60013.0
+1. ant's tour is the best tour. Tour length: 60013.0
+
+2. ant's tour. Tour length: 103877.0
+2. ant's local search tour. Tour length:67435.0
+
+3. ant's tour. Tour length: 102939.0
+3. ant's local search tour. Tour length:60013.0
+
+4. ant's tour. Tour length: 93036.0
+4. ant's local search tour. Tour length:60013.0
+
+5. ant's tour. Tour length: 86328.0
+5. ant's local search tour. Tour length:66064.0
+
+6. ant's tour. Tour length: 108609.0
+6. ant's local search tour. Tour length:65333.0
+
+7. ant's tour. Tour length: 107976.0
+7. ant's local search tour. Tour length:65823.0
+
+8. ant's tour. Tour length: 119145.0
+8. ant's local search tour. Tour length:60013.0
+
+9. ant's tour. Tour length: 101831.0
+9. ant's local search tour. Tour length:60013.0
+
+10. ant's tour. Tour length: 109431.0
+10. ant's local search tour. Tour length:60013.0
+
+11. ant's tour. Tour length: 114814.0
+11. ant's local search tour. Tour length:60013.0
+
+12. ant's tour. Tour length: 103877.0
+12. ant's local search tour. Tour length:67435.0
+
+13. ant's tour. Tour length: 102939.0
+13. ant's local search tour. Tour length:60013.0
+
+14. ant's tour. Tour length: 98692.0
+14. ant's local search tour. Tour length:60013.0
+
+15. ant's tour. Tour length: 86328.0
+15. ant's local search tour. Tour length:66064.0
+
+16. ant's tour. Tour length: 100739.0
+16. ant's local search tour. Tour length:67134.0
+
+17. ant's tour. Tour length: 85955.0
+17. ant's local search tour. Tour length:60013.0
+
+18. ant's tour. Tour length: 95680.0
+18. ant's local search tour. Tour length:60013.0
+
+19. ant's tour. Tour length: 103810.0
+19. ant's local search tour. Tour length:61992.0
+
+20. ant's tour. Tour length: 105551.0
+20. ant's local search tour. Tour length:60013.0
+
+21. ant's tour. Tour length: 102251.0
+21. ant's local search tour. Tour length:60013.0
+
+22. ant's tour. Tour length: 103877.0
+22. ant's local search tour. Tour length:67435.0
+
+23. ant's tour. Tour length: 102939.0
+23. ant's local search tour. Tour length:60013.0
+
+24. ant's tour. Tour length: 99359.0
+24. ant's local search tour. Tour length:60013.0
+
+25. ant's tour. Tour length: 119670.0
+25. ant's local search tour. Tour length:68258.0
+
+26. ant's tour. Tour length: 100908.0
+26. ant's local search tour. Tour length:67134.0
+
+27. ant's tour. Tour length: 87425.0
+27. ant's local search tour. Tour length:60013.0
+
+28. ant's tour. Tour length: 77563.0
+28. ant's local search tour. Tour length:60013.0
+
+29. ant's tour. Tour length: 93164.0
+29. ant's local search tour. Tour length:68489.0
+
+
+Iteration 5
+
+1. ant's tour. Tour length: 119178.0
+1. ant's local search tour. Tour length:64432.0
+1. ant's tour is the best tour. Tour length: 64432.0
+
+2. ant's tour. Tour length: 101381.0
+2. ant's local search tour. Tour length:63509.0
+2. ant's tour is the best tour. Tour length: 63509.0
+
+3. ant's tour. Tour length: 110270.0
+3. ant's local search tour. Tour length:68668.0
+
+4. ant's tour. Tour length: 88834.0
+4. ant's local search tour. Tour length:60013.0
+4. ant's tour is the best tour. Tour length: 60013.0
+
+5. ant's tour. Tour length: 116072.0
+5. ant's local search tour. Tour length:60013.0
+
+6. ant's tour. Tour length: 101285.0
+6. ant's local search tour. Tour length:64432.0
+
+7. ant's tour. Tour length: 81695.0
+7. ant's local search tour. Tour length:64966.0
+
+8. ant's tour. Tour length: 97327.0
+8. ant's local search tour. Tour length:60013.0
+
+9. ant's tour. Tour length: 90020.0
+9. ant's local search tour. Tour length:68964.0
+
+10. ant's tour. Tour length: 114055.0
+10. ant's local search tour. Tour length:60013.0
+
+11. ant's tour. Tour length: 83195.0
+11. ant's local search tour. Tour length:60013.0
+
+12. ant's tour. Tour length: 107807.0
+12. ant's local search tour. Tour length:60013.0
+
+13. ant's tour. Tour length: 92581.0
+13. ant's local search tour. Tour length:71644.0
+
+14. ant's tour. Tour length: 106329.0
+14. ant's local search tour. Tour length:60013.0
+
+15. ant's tour. Tour length: 102251.0
+15. ant's local search tour. Tour length:60013.0
+
+16. ant's tour. Tour length: 116477.0
+16. ant's local search tour. Tour length:66260.0
+
+17. ant's tour. Tour length: 117652.0
+17. ant's local search tour. Tour length:60013.0
+
+18. ant's tour. Tour length: 96777.0
+18. ant's local search tour. Tour length:60013.0
+
+19. ant's tour. Tour length: 91504.0
+19. ant's local search tour. Tour length:68341.0
+
+20. ant's tour. Tour length: 112795.0
+20. ant's local search tour. Tour length:63538.0
+
+21. ant's tour. Tour length: 99822.0
+21. ant's local search tour. Tour length:60013.0
+
+22. ant's tour. Tour length: 107807.0
+22. ant's local search tour. Tour length:60013.0
+
+23. ant's tour. Tour length: 92581.0
+23. ant's local search tour. Tour length:71644.0
+
+24. ant's tour. Tour length: 100433.0
+24. ant's local search tour. Tour length:66823.0
+
+25. ant's tour. Tour length: 110307.0
+25. ant's local search tour. Tour length:66657.0
+
+26. ant's tour. Tour length: 117535.0
+26. ant's local search tour. Tour length:63509.0
+
+27. ant's tour. Tour length: 107027.0
+27. ant's local search tour. Tour length:60013.0
+
+28. ant's tour. Tour length: 90349.0
+28. ant's local search tour. Tour length:66061.0
